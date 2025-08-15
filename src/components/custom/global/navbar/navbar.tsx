@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 
 export default function HeroSectionOne() {
   return (
-    <div className="relative mx-auto  flex  flex-col items-center justify-center">
+    <div className="relative mx-auto flex  flex-col items-center justify-center">
       <Navbar />
     </div>
   );
